@@ -19,3 +19,6 @@ Para criar to-do list usamos - [ ] para ítem não concluido e - [x] para ítem 
 ### Formatar texto
 Itálico é feito com apenas 1 asterisco (*): *exemplo*
 Negrito é feito com 2 asteriscos (**): **exemplo**
+Destaque é feito com apóstrofe ('): 'exemplo'
+
+
